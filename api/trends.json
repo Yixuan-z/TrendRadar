@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T17:13:50.600712+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2025-11-07T18:14:20.399736+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -77,11 +77,12 @@
             16,
             23,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 17时13分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 18时14分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -100,11 +101,12 @@
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时13分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时14分]"
         },
         {
           "title": "男子在特朗普身边晕倒 发布会中断",
@@ -191,6 +193,18 @@
           "time_info": "10时27分"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26pos%3D3%26flag%3D1%26band_rank%3D4%26dgr%3D0%26lcate%3D5001%26display_time%3D1762503503%26pre_seqid%3D176250350337101608035112&launchid=10000360-page_H5",
           "source": "微博",
@@ -225,17 +239,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时18分 ~ 16时20分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时13分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
@@ -729,6 +732,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "为何说特朗普处于重返白宫后最大困境",
+          "url": "https://www.toutiao.com/trending/7568788294771720243/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
           "url": "https://flash.jin10.com/detail/20251107013210117800",
           "source": "金十数据",
@@ -815,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "特朗普官宣降价 药企高管当场晕倒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
@@ -945,7 +970,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -977,11 +1002,12 @@
           "url": "https://wallstreetcn.com/livenews/3001114",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时14分]"
         },
         {
           "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
@@ -1177,11 +1203,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时27分 ~ 17时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时27分 ~ 18时14分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1286,8 +1313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时54分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[08时54分 ~ 18时14分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1384,11 +1411,12 @@
           "ranks": [
             10,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时16分 ~ 17时13分]"
+          "appearance_count": 16,
+          "time_info": "[06时16分 ~ 18时14分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1519,7 +1547,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
