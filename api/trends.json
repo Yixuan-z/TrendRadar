@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:15:45.168987+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2025-12-16T19:12:49.313416+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 19时12分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -82,11 +82,12 @@
             13,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 19时12分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -132,6 +133,17 @@
           "time_info": "[11时54分 ~ 16时19分]"
         },
         {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普起诉BBC 索赔50亿美元",
           "url": "https://flash.jin10.com/detail/20251216083812913800",
           "source": "金十数据",
@@ -149,7 +161,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -163,17 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -867,7 +868,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -900,7 +901,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -933,7 +934,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -966,6 +967,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时12分]"
+        },
+        {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
           "source": "凤凰网",
@@ -988,17 +1000,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时15分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时15分]"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
@@ -1047,7 +1048,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
