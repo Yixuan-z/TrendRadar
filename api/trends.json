@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T19:17:16.937275+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-01-28T20:29:18.386802+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -27,11 +27,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时04分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时04分 ~ 20时29分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -44,6 +45,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 13时22分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 20时29分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时22分 ~ 19时17分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 19时17分]"
         },
         {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
@@ -109,6 +111,17 @@
           "time_info": "[09时01分 ~ 14时23分]"
         },
         {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
+        {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20260128070752669800",
           "source": "金十数据",
@@ -131,6 +144,17 @@
           "time_info": "11时04分"
         },
         {
+          "title": "美国总统特朗普：一支庞大的舰队正快速驶向伊朗，规模比派往委内瑞拉的舰队更大。",
+          "url": "https://flash.jin10.com/detail/20260128201559045800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
           "url": "https://wallstreetcn.com/livenews/3044976",
           "source": "华尔街见闻-快讯",
@@ -151,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普：下一次对伊朗的袭击将比对核设施的袭击更糟。",
+          "url": "https://flash.jin10.com/detail/20260128201504330800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "特朗普称还有一支舰队正驶向伊朗",
@@ -185,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：一支“庞大舰队”正迅速驶向伊朗，伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260128201349567800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
@@ -391,6 +437,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "美国总统特朗普：对伊朗的下一次袭击将严重得多。",
+          "url": "https://flash.jin10.com/detail/20260128201325185800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美国总统特朗普：许多人向我问及乙醇。",
           "url": "https://wallstreetcn.com/livenews/3045025",
           "source": "华尔街见闻-快讯",
@@ -411,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：希望伊朗能尽快“坐到谈判桌前”，伊朗的时间不多了。",
+          "url": "https://flash.jin10.com/detail/20260128201304078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
@@ -617,7 +685,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -856,7 +924,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -880,11 +948,12 @@
             7,
             9,
             10,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时04分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时04分 ~ 20时29分]"
         },
         {
           "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
@@ -1040,6 +1109,29 @@
           "time_info": "[09时01分 ~ 11时04分]"
         },
         {
+          "title": "解读伊朗多重危机背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%BC%8A%E6%9C%97%E5%A4%9A%E9%87%8D%E5%8D%B1%E6%9C%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
+        {
+          "title": "伊朗军方：提升国内能力令对伊行动代价高昂",
+          "url": "https://wallstreetcn.com/livenews/3045541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时29分]"
+        },
+        {
           "title": "沙特不允许其领空领土被用于打击伊朗",
           "url": "https://www.toutiao.com/trending/7600164253504421897/",
           "source": "今日头条",
@@ -1098,24 +1190,13 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "伊朗军方：提升国内能力令对伊行动代价高昂",
-          "url": "https://wallstreetcn.com/livenews/3045541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "土耳其破获与伊朗有关联的间谍网络 6人被捕",
           "url": "https://flash.jin10.com/detail/20260128184612027800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1181,7 +1262,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1255,7 +1336,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1280,6 +1361,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时01分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 20时29分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1371,17 +1464,6 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
-          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3045000",
           "source": "华尔街见闻-快讯",
@@ -1427,6 +1509,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "AT&T第四季度营收335亿美元，预估328.3亿美元。 第四季度调整后EBITDA 112亿美元，预估111.1亿美元。 第四季度调整后每股收益0.52美元，预估0.46美元。 第四季度自由现金流42亿美元。 AT&T预计2026年自由现金流至少180亿美元。 AT&T美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3045563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "GE Vernova美股盘前涨超7%，公司四季度营收超预期",
+          "url": "https://wallstreetcn.com/livenews/3045562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -1649,8 +1753,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 19时17分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 20时29分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -1796,6 +1900,18 @@
           "time_info": "[09时01分 ~ 15时19分]"
         },
         {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时23分 ~ 20时29分]"
+        },
+        {
           "title": "黄金价格大涨又大跌，是走还是留？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
           "source": "澎湃新闻",
@@ -1823,29 +1939,18 @@
           "time_info": "[02时25分 ~ 18时20分]"
         },
         {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时23分 ~ 19时17分]"
-        },
-        {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
             4,
             1,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 20时29分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1888,17 +1993,6 @@
           "time_info": "11时04分"
         },
         {
-          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
-          "url": "https://wallstreetcn.com/livenews/3045543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
           "url": "https://wallstreetcn.com/livenews/3045007",
           "source": "华尔街见闻-快讯",
@@ -1911,15 +2005,28 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
+          "url": "https://wallstreetcn.com/livenews/3045543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时29分]"
+        },
+        {
           "title": "专家谈国际金价加速上涨的背后逻辑",
           "url": "https://www.toutiao.com/trending/7600335568035122738/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 20时29分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
@@ -1951,8 +2058,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时04分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时04分 ~ 20时29分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
