@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:09:39.738807+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-08-12T19:39:28.046040+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -219,13 +219,24 @@
           "time_info": "[00时48分 ~ 01时49分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：（告知日本首相高市早苗）伊朗从未以任何方式违反国际法。",
+          "url": "https://flash.jin10.com/detail/20260812191548705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "日本首相高市早苗：伊朗总统佩泽希齐扬介绍了伊朗方面的立场，包括伊朗与阿曼围绕霍尔木兹海峡问题沟通的当前进展及未来前景。关于曼德海峡问题，佩泽希齐扬表示，伊朗正在与沙特保持对话，并努力推动问题解决。",
           "url": "https://flash.jin10.com/detail/20260812175652547800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -258,7 +269,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -280,7 +291,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -313,7 +324,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -324,7 +335,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -346,7 +357,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -442,7 +453,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -473,11 +484,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 19时39分]"
         },
         {
           "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
@@ -486,18 +498,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3148574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -508,9 +509,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -525,6 +537,18 @@
           "time_info": "[05时36分 ~ 07时31分]"
         },
         {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时39分]"
+        },
+        {
           "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
           "url": "https://www.cls.cn/detail/2452049",
           "source": "财联社热门",
@@ -533,8 +557,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时09分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 19时39分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -548,6 +572,17 @@
           "time_info": "[11时55分 ~ 15时08分]"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
           "url": "https://flash.jin10.com/detail/20260812052220258800",
           "source": "金十数据",
@@ -557,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "据大西洋月刊：美国财长贝森特曾告诉特朗普，加强制裁可能会迫使伊朗屈服，并声称随着70%的能源运输转移到地下管道，霍尔木兹海峡将在两年内变得无关紧要。",
+          "url": "https://flash.jin10.com/detail/20260812191933612800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
@@ -609,7 +655,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -705,7 +751,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -765,6 +811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "文远知行第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -865,7 +922,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -923,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "7月CPI成为“定方向数据”！不同情景下，美元黄金美股如何反应？",
+          "url": "https://flash.jin10.com/detail/20260812190120326800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -1027,17 +1095,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3148567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
           "url": "https://flash.jin10.com/detail/20260812012754420800",
           "source": "金十数据",
@@ -1048,6 +1105,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时46分]"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时39分]"
         },
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -1122,11 +1191,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时09分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时39分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1243,11 +1313,12 @@
           "url": "https://wallstreetcn.com/livenews/3148572",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时39分]"
         },
         {
           "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
